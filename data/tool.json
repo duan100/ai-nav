@@ -1,0 +1,6 @@
+[
+  { "name": "ChatGPT", "category": "AI助手", "icon": "🤖" },
+  { "name": "Midjourney", "category": "图像生成", "icon": "🎨" },
+  { "name": "Notion AI", "category": "办公辅助", "icon": "📋" },
+  { "name": "AI Shield", "category": "AI安全", "icon": "🛡️" }
+]
