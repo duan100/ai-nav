@@ -1,5 +1,6 @@
+
 {
-  "name": "ai-defense-wall-clone",
+  "name": "ai-tool-directory",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -9,14 +10,14 @@
   "dependencies": {
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "framer-motion": "^10.16.1",
+    "lucide-react": "^0.289.0"
   },
   "devDependencies": {
-    "@types/node": "^22.14.1",
-    "@types/react": "^19.1.2",
-    "autoprefixer": "^10.4.12",
-    "postcss": "^8.4.16",
-    "tailwindcss": "^3.1.8",
-    "typescript": "^4.8.4"
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.2.2"
   }
 }
